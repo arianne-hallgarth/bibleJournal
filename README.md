@@ -2,6 +2,10 @@
 
 This repo is designed to provide space to code a fullstack app. It contains node modules and folders for databases, routes, API requests and React components that'll use React Query. Let's get going!
 
+## Preface
+
+I am aiming on creating a bible journal, this is an on-going personal project. At the moment it can only delete an already listed verse. The goal is to be able to, Add, modify and write a journal relating to the verse that has been added. I am using Javascript, React, Knex and SQLite3 for database, HTML and CSS on this project. 
+
 ## Setup
 
 ### 0. Cloning and installation
